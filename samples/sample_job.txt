@@ -1,0 +1,23 @@
+AI Engineer - ABC Technologies
+
+ABC Technologies is looking for a talented AI Engineer to join our growing team and build
+intelligent, LLM-powered products used by thousands of customers.
+
+Location: Karachi (Full-time, On-site)
+Experience: 2-4 years
+
+Responsibilities
+- Design and ship AI agents and multi-step workflows using LangGraph.
+- Build and maintain high-performance REST APIs with FastAPI.
+- Write clean, tested Python code and optimise SQL queries for analytics.
+- Collaborate with product and design teams to turn ideas into features.
+
+Requirements
+- Strong proficiency in Python
+- Hands-on experience with FastAPI, LangGraph and SQL
+- Excellent communication and teamwork skills
+- Strong problem-solving mindset
+
+Nice to have
+- Experience with Gemini or Groq APIs
+- Familiarity with Pydantic and prompt engineering
